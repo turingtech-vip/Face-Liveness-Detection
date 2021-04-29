@@ -1,6 +1,6 @@
 # Face-Liveness-Detection
 
-![image](https://user-images.githubusercontent.com/80960135/115845747-c1776400-a453-11eb-9e0c-6607ea52d5a8.png)
+![image](https://user-images.githubusercontent.com/80960135/116544496-cd669880-a921-11eb-83e1-67f714a8e545.png)
 
 I'll add web test page soon.
 Please use phone images.
