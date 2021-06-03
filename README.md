@@ -1,6 +1,6 @@
 # Face-Liveness-Detection
 
-- 2021.5.11   Model updated.
+- 2021.6.4   Model updated.
 
 http://54.253.233.223:8889/face/liveness/score
 
